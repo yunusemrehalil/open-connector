@@ -1,0 +1,10 @@
+version 1
+commit ab159acf7c931371a085cfa490ad0434c8882038
+capture observed git/2.56.0.agit.2
+actor a227e351-85bf-4675-83a7-2ccc817b4f29 ai model=claude-opus-5-5 tool=claude-code session=a227e351-85bf-4675-83a7-2ccc817b4f29 source=observed
+file src/providers/pdfless/actions.ts
++ 33-61 AI a227e351-85bf-4675-83a7-2ccc817b4f29 f7499a1a5dadba2055243b94cd83853f237d3448
++ 95-123 AI a227e351-85bf-4675-83a7-2ccc817b4f29 75fb2776653ba885fbd0fee203948b1be570215b
+file src/providers/pdfless/definition.ts
++ 18 AI a227e351-85bf-4675-83a7-2ccc817b4f29 dbfd46d8a42032105455bad27654825bd08f4dc4
+- 18 AI a227e351-85bf-4675-83a7-2ccc817b4f29 f999ca9f0425f42765ca96d8846ea5ae8382816f
